@@ -4,7 +4,7 @@ Representative Power Spectral Density (PSD) samples related to the paper:
 
 > **LUMEN: A Lightweight UAV Multi-Enhanced Network for PSD-Based RF Fingerprinting on Edge Devices**
 
-This repository provides representative PSD examples and preprocessing references for UAV RF fingerprinting research. The released files are intended to illustrate spectral characteristics across UAV classes, flight states, and acquisition conditions used in the proposed LUMEN framework.
+This repository provides representative PSD examples and preprocessing references for UAV RF fingerprinting research. The released files are intended to illustrate spectral characteristics across UAV classes, flight states, and acquisition conditions used in the proposed LUMEN Model.
 
 ---
 
