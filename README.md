@@ -34,8 +34,6 @@ The sample scale is organized as follows:
 2 RF links × 14 UAV classes × 3 indoor conditions × 5 flight states = 420 representative condition groups
 ```
 
-The total released sample size is approximately **40 MB**.
-
 ---
 
 ## Directory Structure
