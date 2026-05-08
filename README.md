@@ -128,7 +128,7 @@ The released files are intended to:
 - illustrate spectral differences across UAV classes
 - demonstrate flight-state-dependent spectral variations
 - support understanding of the preprocessing pipeline
-- provide representative examples related to the LUMEN framework
+- provide representative examples related to the LUMEN Model
 - improve transparency and reproducibility support for the paper
 
 These files **do not constitute the complete benchmark dataset** used for training and evaluation in the paper.
