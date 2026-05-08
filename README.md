@@ -41,7 +41,7 @@ The total released sample size is approximately **40 MB**.
 ## Directory Structure
 
 ```text
-LUMEN-Representative-PSD-Samples/
+data/
 ├── fly_control_status_data/
 │   ├── uav01/
 │   │   ├── indoor01/
