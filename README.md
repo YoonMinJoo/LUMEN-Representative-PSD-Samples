@@ -114,12 +114,10 @@ Example loading code:
 ```python
 import numpy as np
 
-data = np.load("sample_psd.npy", allow_pickle=True).item()
+data = np.load("data/fly_control_status_data/uav01/indoor01/arming/arming_0000.npy", allow_pickle=True).item()
 
-freqs = data["freqs"]
 psd = data["psd"]
 
-print(freqs.shape)
 print(psd.shape)
 ```
 
